@@ -103,7 +103,7 @@ const HeroSection = () => {
         </div>
       </div>
 
-      <div className="best-office-section">
+      <div className="best-office-section" >
         {/* Main Heading */}
         <h2 className="main-heading">
           Want to know
